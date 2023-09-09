@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const toUnit = document.getElementById("toUnit");
     const result = document.getElementById("result");
     const convertBtn = document.getElementById("convertBtn");
-    const container = document.querySelector(".container");
+    const container = document.querySelector("container");
     const background = document.body; // Select the body for background image
 
     // Function to update background image
